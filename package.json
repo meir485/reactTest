@@ -3,7 +3,7 @@
   "version": "0.1.0",
   "private": true,
   "comit":"'might be incorrect. use whats app link",
-   "homepage" :  "https://github.com/meir485/reactTest.git",
+   "homepage" :  "https://meir485.github.io/reactTest",
   "dependencies": {
     "@testing-library/jest-dom": "^4.2.4",
     "@testing-library/react": "^9.4.0",
