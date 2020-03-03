@@ -1,25 +1,25 @@
 {
   "files": {
-    "main.css": "/github.com/reactTest.git/static/css/main.d1b05096.chunk.css",
-    "main.js": "/github.com/reactTest.git/static/js/main.8ca12e76.chunk.js",
-    "main.js.map": "/github.com/reactTest.git/static/js/main.8ca12e76.chunk.js.map",
-    "runtime-main.js": "/github.com/reactTest.git/static/js/runtime-main.4eba7be8.js",
-    "runtime-main.js.map": "/github.com/reactTest.git/static/js/runtime-main.4eba7be8.js.map",
-    "static/css/2.67123b20.chunk.css": "/github.com/reactTest.git/static/css/2.67123b20.chunk.css",
-    "static/js/2.0e5c916b.chunk.js": "/github.com/reactTest.git/static/js/2.0e5c916b.chunk.js",
-    "static/js/2.0e5c916b.chunk.js.map": "/github.com/reactTest.git/static/js/2.0e5c916b.chunk.js.map",
-    "index.html": "/github.com/reactTest.git/index.html",
-    "precache-manifest.842183a3ce6efed61a41619128b21ec8.js": "/github.com/reactTest.git/precache-manifest.842183a3ce6efed61a41619128b21ec8.js",
-    "service-worker.js": "/github.com/reactTest.git/service-worker.js",
-    "static/css/2.67123b20.chunk.css.map": "/github.com/reactTest.git/static/css/2.67123b20.chunk.css.map",
-    "static/css/main.d1b05096.chunk.css.map": "/github.com/reactTest.git/static/css/main.d1b05096.chunk.css.map",
-    "static/js/2.0e5c916b.chunk.js.LICENSE.txt": "/github.com/reactTest.git/static/js/2.0e5c916b.chunk.js.LICENSE.txt"
+    "main.css": "/meir485/reactTest.git/static/css/main.d1b05096.chunk.css",
+    "main.js": "/meir485/reactTest.git/static/js/main.0cdcdd74.chunk.js",
+    "main.js.map": "/meir485/reactTest.git/static/js/main.0cdcdd74.chunk.js.map",
+    "runtime-main.js": "/meir485/reactTest.git/static/js/runtime-main.21eb2357.js",
+    "runtime-main.js.map": "/meir485/reactTest.git/static/js/runtime-main.21eb2357.js.map",
+    "static/css/2.67123b20.chunk.css": "/meir485/reactTest.git/static/css/2.67123b20.chunk.css",
+    "static/js/2.0e5c916b.chunk.js": "/meir485/reactTest.git/static/js/2.0e5c916b.chunk.js",
+    "static/js/2.0e5c916b.chunk.js.map": "/meir485/reactTest.git/static/js/2.0e5c916b.chunk.js.map",
+    "index.html": "/meir485/reactTest.git/index.html",
+    "precache-manifest.0624fd42ac58504030977eb22a45984d.js": "/meir485/reactTest.git/precache-manifest.0624fd42ac58504030977eb22a45984d.js",
+    "service-worker.js": "/meir485/reactTest.git/service-worker.js",
+    "static/css/2.67123b20.chunk.css.map": "/meir485/reactTest.git/static/css/2.67123b20.chunk.css.map",
+    "static/css/main.d1b05096.chunk.css.map": "/meir485/reactTest.git/static/css/main.d1b05096.chunk.css.map",
+    "static/js/2.0e5c916b.chunk.js.LICENSE.txt": "/meir485/reactTest.git/static/js/2.0e5c916b.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.4eba7be8.js",
+    "static/js/runtime-main.21eb2357.js",
     "static/css/2.67123b20.chunk.css",
     "static/js/2.0e5c916b.chunk.js",
     "static/css/main.d1b05096.chunk.css",
-    "static/js/main.8ca12e76.chunk.js"
+    "static/js/main.0cdcdd74.chunk.js"
   ]
 }
